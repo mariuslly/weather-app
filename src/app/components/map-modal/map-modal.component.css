@@ -1,0 +1,14 @@
+.map {
+    width: 100%;
+    height: 50vh;
+}
+.modal-title {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    vertical-align: middle;
+}
+.details {
+    font-size: 14px;
+    /* display: block; */
+    font-weight: normal;
+}
